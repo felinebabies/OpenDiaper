@@ -2,7 +2,7 @@
 
 3Dヒューマノイドモデル向けおむつ3Dモデル及びテクスチャ
 
-![Open Diaper main image](documents\image\opendiaper_top.png)
+![Open Diaper main image](documents/image/opendiaper_top.png)
 
 Open Diaperは、自由にアバターへの組み込みや改変ができるおむつの3Dモデルです。
 
@@ -13,7 +13,7 @@ mesh、texture、normalディレクトリ以下の3Dモデルデータ及びテ�
 
 3Dアバター作成・公開の際にmeshディレクトリ以下の3Dモデルとuv_guideディレクトリ以下のUVガイド画像に合わせてUVを設定して頂ければ、当リポジトリのテクスチャをそのまま利用できるようになります。
 
-![diaper tail uv](documents\image\diaper_tail_001.png)
+![diaper tail uv](documents/image/diaper_tail_001.png)
 
 
 ## Open Diaper License
