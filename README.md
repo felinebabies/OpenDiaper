@@ -15,6 +15,11 @@ mesh、texture、normalディレクトリ以下の3Dモデルデータ及びテ�
 
 ![diaper tail uv](documents/image/diaper_tail_001.png)
 
+## contributor
+
+- 中村あぞ
+    - texture\diaper_tape_tail_texture_002.png
+    - texture\diaper_tape_tail_texture_003.png
 
 ## Open Diaper License
 
