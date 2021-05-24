@@ -13,7 +13,7 @@
 
 - Unity 2018.4.20f1（2021年5月現在のVRChat SDK対応バージョン）
 - 着せ替え支援ボーン移植エディタ
-- Open DiaperのUnitypackage「OpenDiaperV2ForUnity.unitypackage」
+- Open DiaperのUnitypackage、プロジェクト内の「SetupForUnity/OpenDiaperV2ForUnity.unitypackage」に存在
 - Open Diaperを装着する対象のHumanoid 3Dモデル
 
 
