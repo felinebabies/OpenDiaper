@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SaveFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <arrayNum>4</arrayNum>
+  <nameObj>
+    <string>Character1_Hips</string>
+    <string>Character1_Spine1</string>
+    <string>Character1_UpLeg.L</string>
+    <string>Character1_UpLeg.R</string>
+  </nameObj>
+</SaveFile>
