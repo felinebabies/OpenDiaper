@@ -13,7 +13,7 @@ mesh、texture、normalディレクトリ以下の3Dモデルデータ及びテ�
 
 Unity・VRChat向けのセットアップ方法につきましては、下記ドキュメントを参照してください。
 
-[Unity上でリギング済みOpen DiaperをHumanoidに装着する](documents/tutorial_unity/index.md)
+[Unity上でリギング済みOpen DiaperをHumanoidに装着する](SetupForUnity/tutorial_unity/index.md)
 
 
 ## アバター作成者の方へ
