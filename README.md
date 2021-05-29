@@ -25,8 +25,11 @@ Unity・VRChat向けのセットアップ方法につきましては、下記ド
 ## contributor
 
 - 中村あぞ
-    - texture\diaper_tape_tail_texture_002.png
-    - texture\diaper_tape_tail_texture_003.png
+    - texture/diaper_tape_tail_texture_002.png
+    - texture/diaper_tape_tail_texture_003.png
+- [denneko223355](https://github.com/denneko223355)
+    - SetupForUnity/tutorial_unity/index.md
+        - 手順書内の、詳細なUnity上での操作方法を追記
 
 ## Open Diaper License
 
