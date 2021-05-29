@@ -16,6 +16,13 @@ Unity・VRChat向けのセットアップ方法につきましては、下記ド
 [Unity上でリギング済みOpen DiaperをHumanoidに装着する](SetupForUnity/tutorial_unity/index.md)
 
 
+## MMD向けのセットアップ方法
+
+MMD向けのセットアップ方法につきましては、下記ドキュメントを参照してください。
+
+[MMDへのOpen Diaper導入手順](SetupForMMD/readme_MMD.md)
+
+
 ## アバター作成者の方へ
 
 3Dアバター作成・公開の際にmeshディレクトリ以下の3Dモデルとuv_guideディレクトリ以下のUVガイド画像に合わせてUVを設定して頂ければ、当リポジトリのテクスチャをそのまま利用できるようになります。
@@ -30,6 +37,13 @@ Unity・VRChat向けのセットアップ方法につきましては、下記ド
 - [denneko223355](https://github.com/denneko223355)
     - SetupForUnity/tutorial_unity/index.md
         - 手順書内の、詳細なUnity上での操作方法を追記
+- storchP
+    - SetupForMMD/diaper_ver3.pmx
+        - データ変換
+    - SetupForMMD/readme_MMD.md
+        - 手順書執筆
+    - SetupForMMD/おむつ伸縮ウェイト.txt
+        - ウェイト情報設定
 
 ## Open Diaper License
 
