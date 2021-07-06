@@ -44,6 +44,11 @@ MMD向けのセットアップ方法につきましては、下記ドキュメ�
         - 手順書執筆
     - SetupForMMD/おむつ伸縮ウェイト.txt
         - ウェイト情報設定
+- Phlog
+    - texture/diaper_tape_tail_texture_005.png
+    - normal/diaper_tape_tail_normal_005.png
+- [うなぎ](https://github.com/unyagi)
+    - texture/diaper_tape_tail_texture_004.png
 
 ## Open Diaper License
 
